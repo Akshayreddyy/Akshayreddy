@@ -85,7 +85,7 @@ const locationInfo = function (req, res) {
     },
   });
   {
-    title: "Starcups",
+    title: "Starbucks",
     pageHeader: { title: "Starbucks" },
     sidebar: {
       context:
